@@ -1,4 +1,4 @@
-baseURL = "/Ryuuki-Site" # change this to the name of your new repository
+baseURL = "/" # change this to the name of your new repository
 title = "Ryuuki Network"
 
 enableRobotsTXT = true
