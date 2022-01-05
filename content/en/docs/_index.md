@@ -8,17 +8,19 @@ menu:
     weight: 20
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+# What is a Mission Driven Stakepool
 
+A Mission Driven stake pool is connected to a project or team that itself is mission driven. The Stakepool has soul, so to speak.
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+## Well what exactly is mission driven?
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
+We refer to something as mission driven, if the focus of the project is on a clearly defined purpose. Usually that purpose involves open source (or commons) contributions, creation of closed loops systems, ecological sustainability or regeneration and regenerative practices.
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
+# Some Alchemy.
 
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
+What happens if you mix two things together? You receive a third new thing. Hence combining the mission driven aspect with stake pool operation leaves us with a novel kind of entity, that is able to self sufficiently and organically grow & nurture community around a cause.
+We can go on further and mix this entity with again something new, like DripDropz and voila never before seen or felt possibilities emerge!
+
+Take a ride with us.
 
 
